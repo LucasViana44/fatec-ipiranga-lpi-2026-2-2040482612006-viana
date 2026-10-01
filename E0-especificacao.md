@@ -43,13 +43,13 @@ A implementação será realizada de maneira incremental, acrescentando funciona
 
 ## 5. Funcionalidades do sistema:
 
-1.Cadastro dos alunos
-2.Registrar notas
-3.Busca de alunos por RA
-4.Cálculo da média dos alunos
-5.Determinar situação acadêmica
-6.Identificação e exibição da maior e menor nota
-7.Cálculo geral da média da turma
+1.Cadastro dos alunos<br>
+2.Registrar notas<br>
+3.Busca de alunos por RA<br>
+4.Cálculo da média dos alunos<br>
+5.Determinar situação acadêmica<br>
+6.Identificação e exibição da maior e menor nota<br>
+7.Cálculo geral da média da turma<br>
 
 ## 6. Considerações Finais:
 
