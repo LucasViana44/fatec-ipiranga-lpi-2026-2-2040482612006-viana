@@ -1,39 +1,39 @@
 ### Tópico 1: Mapa do Menu:
 
-**Opção 1**: Cadastrar e registrar Alunos e suas respectivas Notas bimestrais.
-**Opção 2**: Exibir Relatório das notas.
-**Opção 3**: Exibir tabela de aprovados/reprovados.
-**Opção 4**: Correção de notas.
-**Opção 0**: Saída.
+**Opção 1**: Cadastrar e registrar Alunos e suas respectivas Notas bimestrais. <br>
+**Opção 2**: Exibir Relatório das notas. <br>
+**Opção 3**: Exibir tabela de aprovados/reprovados. <br>
+**Opção 4**: Correção de notas. <br>
+**Opção 0**: Saída. <br>
 
 ### Tópico 2: Prototipagem do console
 
-**Simulação de Exibição do Console:**
-PS: Nesta parte o programa utilizará um laço do tipo for, percorrendo um array com o número de alunos.
-Informe o RA do Aluno: 1234567
-Informe o Nome do Aluno: Fulano
-Informe a primeira Nota Bimestral do Aluno: 6.7
-Informe a segunda Nota Bimestral do Aluno: 6.7
-Informe a terceira Nota Bimestral do Aluno: 6.7
-Informe a quarta Nota Bimestral do Aluno: 6.7
------------------------------------
-**Definição da quantidade de alunos**
-Insira a Quantidade de Alunos na Turma: 4
-**Relatório das Notas**
-Aluno: Fulano
-Nota 1: 6.7
-Nota 2: 6.7
-Nota 3: 6.7
-Nota 4: 6.7
-Média do Aluno: 6.7
-----------------------------------
-**Situação dos Alunos**
-Fulano: Aprovado
-Ciclano: Reprovado
-Beltrano: Reprovado
-Paulo: Reprovado
-...
-----------------------------------
+**Simulação de Exibição do Console:** <br>
+PS: Nesta parte o programa utilizará um laço do tipo for, percorrendo um array com o número de alunos. <br>
+Informe o RA do Aluno: 1234567 <br>
+Informe o Nome do Aluno: Fulano <br>
+Informe a primeira Nota Bimestral do Aluno: 6.7 <br>
+Informe a segunda Nota Bimestral do Aluno: 6.7 <br>
+Informe a terceira Nota Bimestral do Aluno: 6.7 <br>
+Informe a quarta Nota Bimestral do Aluno: 6.7 <br>
+----------------------------------- <br>
+**Definição da quantidade de alunos** <br>
+Insira a Quantidade de Alunos na Turma: 4 <br>
+**Relatório das Notas** <br>
+Aluno: Fulano <br>
+Nota 1: 6.7 <br>
+Nota 2: 6.7 <br>
+Nota 3: 6.7 <br>
+Nota 4: 6.7 <br>
+Média do Aluno: 6.7 <br>
+---------------------------------- <br>
+**Situação dos Alunos** <br>
+Fulano: Aprovado <br>
+Ciclano: Reprovado <br>
+Beltrano: Reprovado <br>
+Paulo: Reprovado <br>
+... <br>
+---------------------------------- <br>
 
 ### Tópico 3: Regras de Validação de Entrada:
 
